@@ -1,6 +1,7 @@
 const arith = document.getElementsByTagName('li')
 
 
+
 let num1 = 7
 let num2 = 3
 let num3 = 13
